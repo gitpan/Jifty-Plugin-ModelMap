@@ -1,4 +1,3 @@
-.cvsignore
 Changes
 inc/Module/AutoInstall.pm
 inc/Module/Install.pm
@@ -32,3 +31,4 @@ t/TestApp/Makefile.PL
 t/TestApp/t/00-model-Part.t
 t/TestApp/t/00-model-PartSupplierLink.t
 t/TestApp/t/00-model-Supplier.t
+Todo

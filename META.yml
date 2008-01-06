@@ -18,4 +18,4 @@ requires:
   HTML::Entities: 0
   Jifty: 0
   Memoize: 0
-version: 0.01
+version: 0.02

@@ -5,7 +5,7 @@ BEGIN {
     use FindBin;
     use lib "$FindBin::Bin/../lib";
     use lib "$FindBin::Bin/TestApp/lib";
-    chdir("/Users/bokutin/svk/Jifty-Plugin-ModelMap/t/TestApp") || die;
+    chdir("$FindBin::Bin/TestApp") || die;
 }
 
 use Jifty::Test tests => 4;
